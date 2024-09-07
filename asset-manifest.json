@@ -1,16 +1,33 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/portfolio/static/js/main.fa36130c.js",
+    "main.css": "/portfolio/static/css/main.b1edb2ee.css",
+    "main.js": "/portfolio/static/js/main.1a0375e0.js",
     "static/js/453.acca0757.chunk.js": "/portfolio/static/js/453.acca0757.chunk.js",
-    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Melodrama-Variable.ttf": "/portfolio/static/media/Melodrama-Variable.94cb5d31e2ef87b79578.ttf",
+    "static/media/Melodrama-Semibold.ttf": "/portfolio/static/media/Melodrama-Semibold.b72c7840cb848209ac71.ttf",
+    "static/media/Melodrama-Medium.ttf": "/portfolio/static/media/Melodrama-Medium.587b9cad68f428417d75.ttf",
+    "static/media/Melodrama-Regular.ttf": "/portfolio/static/media/Melodrama-Regular.2cc4efcd8e0a0e08a8ca.ttf",
+    "static/media/Melodrama-Light.ttf": "/portfolio/static/media/Melodrama-Light.8e91518f60e6d0ae0bc7.ttf",
+    "static/media/Melodrama-Bold.ttf": "/portfolio/static/media/Melodrama-Bold.bd5f204d2a266a59f2dc.ttf",
+    "static/media/Melodrama-Variable.woff2": "/portfolio/static/media/Melodrama-Variable.572a91d852d0312b7d9d.woff2",
+    "static/media/Melodrama-Variable.woff": "/portfolio/static/media/Melodrama-Variable.e1cb51d73753c68325ad.woff",
+    "static/media/Melodrama-Medium.woff": "/portfolio/static/media/Melodrama-Medium.1d1de356e6733a9d7706.woff",
+    "static/media/Melodrama-Semibold.woff": "/portfolio/static/media/Melodrama-Semibold.c4d7408d6b156c42bab2.woff",
+    "static/media/Melodrama-Regular.woff": "/portfolio/static/media/Melodrama-Regular.b71a9e49000ac21ba995.woff",
+    "static/media/Melodrama-Light.woff": "/portfolio/static/media/Melodrama-Light.1fcac007690bc82a66c4.woff",
+    "static/media/Melodrama-Bold.woff": "/portfolio/static/media/Melodrama-Bold.be80cde082919a7b721e.woff",
+    "static/media/Melodrama-Medium.woff2": "/portfolio/static/media/Melodrama-Medium.ba59d4b44d3923da004e.woff2",
+    "static/media/Melodrama-Regular.woff2": "/portfolio/static/media/Melodrama-Regular.73c0cfae086f2f926c3f.woff2",
+    "static/media/Melodrama-Semibold.woff2": "/portfolio/static/media/Melodrama-Semibold.b089aaae22343414d245.woff2",
+    "static/media/Melodrama-Light.woff2": "/portfolio/static/media/Melodrama-Light.ed823f2efd506c6d66fa.woff2",
+    "static/media/Melodrama-Bold.woff2": "/portfolio/static/media/Melodrama-Bold.4c9b3df110d5520712a7.woff2",
     "index.html": "/portfolio/index.html",
-    "main.f855e6bc.css.map": "/portfolio/static/css/main.f855e6bc.css.map",
-    "main.fa36130c.js.map": "/portfolio/static/js/main.fa36130c.js.map",
+    "main.b1edb2ee.css.map": "/portfolio/static/css/main.b1edb2ee.css.map",
+    "main.1a0375e0.js.map": "/portfolio/static/js/main.1a0375e0.js.map",
     "453.acca0757.chunk.js.map": "/portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.fa36130c.js"
+    "static/css/main.b1edb2ee.css",
+    "static/js/main.1a0375e0.js"
   ]
 }
